@@ -7,8 +7,9 @@ We’re just getting started and would love your support! Here's how you can con
 1. **Explore Ideas**: Share suggestions, tools, or challenges inventors face in the Discussions section.
 2. **Submit Contributions**: Check out our open issues to see how you can help.
 3. **Spread the Word**: Share this repository with your network of innovators and creators!
-🛠️ Current Focus
-## We are working on the following:
+
+## 🛠️ Current Focus
+We are working on the following:
 - Templates and tools for inventors and IP professionals.
 - Guides to simplify patent management.
 - Community discussions to brainstorm and solve real-world challenges.
