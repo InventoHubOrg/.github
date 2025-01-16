@@ -11,8 +11,8 @@ We’re just getting started and would love your support! Here's how you can con
 ## We are working on the following: - Templates and tools for inventors and IP professionals.
 - Guides to simplify patent management.
 - Community discussions to brainstorm and solve real-world challenges.
-🌍 Vision
-## At InventoHub, we believe that collaboration is the key to unlocking innovation. Together, we can:
+## 🌍 Vision
+At InventoHub, we believe that collaboration is the key to unlocking innovation. Together, we can:
 - Simplify the journey of inventors.
 - Build a global network of IP professionals and creators.
 - Create tools and resources that truly make a difference.
